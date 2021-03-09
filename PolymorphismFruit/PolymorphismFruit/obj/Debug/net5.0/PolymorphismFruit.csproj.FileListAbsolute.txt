@@ -1,0 +1,15 @@
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/PolymorphismFruit.deps.json
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/PolymorphismFruit.runtimeconfig.json
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/PolymorphismFruit.runtimeconfig.dev.json
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/PolymorphismFruit.dll
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/ref/PolymorphismFruit.dll
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/bin/Debug/net5.0/PolymorphismFruit.pdb
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.csprojAssemblyReference.cache
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.AssemblyInfoInputs.cache
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.AssemblyInfo.cs
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.dll
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/ref/PolymorphismFruit.dll
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.pdb
+/Users/rob/Projects/PolymorphismFruit/PolymorphismFruit/obj/Debug/net5.0/PolymorphismFruit.genruntimeconfig.cache
